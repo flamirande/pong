@@ -12,7 +12,6 @@ InputHandler::~InputHandler()
 	}
 }
 
-
 void InputHandler::handle_input()
 {
 	SDL_Event input_event;
